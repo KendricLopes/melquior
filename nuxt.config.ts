@@ -3,7 +3,7 @@ export default defineNuxtConfig({
   compatibilityDate: '2024-04-03',
   devtools: { enabled: true },
   app: {
-    baseURL: '/melquior/',
+    baseURL: 'https://kendriclopes.github.io/melquior/',
     head: {
       title: 'Melquior',
       htmlAttrs: {
